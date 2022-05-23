@@ -1,7 +1,5 @@
-const Math = {};
- 
 
-function add(x1, x2) {
+ function add(x1, x2) {
     return x1 + x2;
 }
 
@@ -15,12 +13,13 @@ function multiply(x1, x2) {
 
 function divide(x1, x2) {
     if(x2 == 0) {
-        return 'jooola';
+        throw Error("No es posible dividir por cero");
     } else {
         return x1 / x2;
     }
 }
 
+const Math = {};
 Math.add = add; 
 Math.divide = divide; 
 Math.multiply = multiply; 

@@ -1,7 +1,12 @@
 {
   "dependencies": {
+    "axios": "^0.27.2",
     "colors": "^1.4.0",
-    "express": "^4.18.1"
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "morgan": "^1.10.0",
+    "node-fetch": "^3.2.4"
   },
   "name": "prueba-node",
   "version": "1.0.0",
@@ -9,8 +14,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "author": "Matias",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0",
+    "nodemon": "^2.0.16"
+  }
 }
