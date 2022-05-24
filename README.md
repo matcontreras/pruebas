@@ -76,7 +76,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 ## Versionado 
 
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+Usamos [Git](https://git-scm.com) para el versionado.
 
 ## Autor
 
