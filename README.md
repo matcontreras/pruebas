@@ -89,6 +89,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * Docker
 * NodeJS
 * JavaScript
+* Sistema Operativo macOS 11.6
 
 ## Versionado 
 
