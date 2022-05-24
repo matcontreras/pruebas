@@ -2,7 +2,7 @@
 
 _AppInvestimentos es una aplicación que te permite consultar diferentes características de las acciones de una manera simple y organizada._
 
-Con esta aplicación podemos consultar lo siguiente: 
+Con esta aplicación podemos realizar lo siguiente: 
 
    - Preço atual de las acciones;
    - Preço histórico de la acción entre fechas específicas;
