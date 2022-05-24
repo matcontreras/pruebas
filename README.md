@@ -20,6 +20,9 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 _Que cosas necesitas para instalar el software y como instalarlas_
 
+version de Node y NPM que necesitas
+tener instalado git 
+
 ```
 Da un ejemplo
 ```
@@ -27,6 +30,13 @@ Da un ejemplo
 ### Instalación
 
 _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+
+1. Hacernos socios de la api en la que hacemos la consulta. Crear la cuenta. Linkear la cuenta, darle la api, etc
+2. Descargar el proyecto del repositorio con el comando git clone...
+3. vamos a la carpeta del proyect
+4. crear un archivo .env con las siguientes credenciales... 
+5. ejecutar el script que levanta los servidores
+
 
 _Dí cómo será ese paso_
 
@@ -46,7 +56,9 @@ _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para 
 
 _Explica como ejecutar las pruebas automatizadas para este sistema_
 
-### Analice las pruebas end-to-end
+1. Ejecutar el siguiente script para ejecutar todas las pruebas 
+
+### Analice las pruebas end-to-end (catalon)
 
 _Explica que verifican estas pruebas y por qué_
 
@@ -66,13 +78,17 @@ Da un ejemplo
 
 _Agrega notas adicionales sobre como hacer deploy_
 
+esto es lo que hacemos con el docker
+
 ## Construido con
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* React
+* Express
+* Docker
+* NodeJS
+* JavaScript
 
 ## Versionado 
 
