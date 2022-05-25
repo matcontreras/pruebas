@@ -18,67 +18,46 @@ Consulte **Implantação** para saber como implantar o projeto.
 
 ### Pré requisitos
 
-- Ter o NodeJS v16.15.0 e o NPM v8.10.0 instalados
-- Ter o Git instalado
+- Ter o NodeJS v16.15.0 e o NPM v8.10.0 instalados.
+- Ter o Git instalado.
 
 ### Instalación
 
-1. Crear una cuenta gratuita en la API de consultas utilizada. 
-2. Descargar el proyecto del repositorio con el comando git clone...
-3. vamos a la carpeta del proyect
-4. crear un archivo .env con las siguientes credenciales... 
-5. ejecutar el script que levanta los servidores
-
-
-_Dí cómo será ese paso_
+1. Crear una cuenta gratuita en la API de consultas utilizada en [Market Stack](https://marketstack.com/signup/free) para obtener el token para acceder a las consultas. (Tiene un máximo de 100 consultas gratuitas por cuenta). Tendrá un Token en las configuraciones y dejo uno aqui para poder utilizar. 
 
 ```
 Da un ejemplo
 ```
 
-_Y repite_
+2. Descargar el proyecto del repositorio. (Será enviado por un Pull Request) 
+
+3. Entrar a la carpeta del proyecto y ejecutar el siguiente script
 
 ```
-hasta finalizar
+acá va el comando para descargar las librerias de Node (hacemos una para los dos ? )
 ```
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+4. Ejecutar el script que levanta los servidores
+```
+$ start. noseqe.sh
+```
+
 
 ## Ejecutando las pruebas
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
-1. Ejecutar el siguiente script para ejecutar todas las pruebas 
-
-### Analice las pruebas end-to-end (catalon)
-
-_Explica que verifican estas pruebas y por qué_
-
+1. Para poder realizar las pruebas del sistema debemos entrar a la consola y ejecutar el siguente script:  
 ```
-Da un ejemplo
-```
-
-### Y las pruebas de estilo de codificación 
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
+$ npm test
 ```
 
 ## Despliegue
 
-_Agrega notas adicionales sobre como hacer deploy_
+Para poder desplegar, debemos...
 
-esto es lo que hacemos con el docker
-
-## Construido con
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+## Construído com
 
 * React
 * Express
-* Docker
 * NodeJS
 * JavaScript
 * Sistema Operativo macOS 11.6
@@ -89,4 +68,4 @@ Usamos [Git](https://git-scm.com) para el versionado.
 
 ## Autor
 
-* **Matias Contreras** - *Trabajo Inicial* - [matcontreras](https://github.com/matcontreras)
+* **Matias Contreras** - *Test* - [matcontreras](https://github.com/matcontreras)
