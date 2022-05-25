@@ -23,10 +23,13 @@ Consulte **Implantação** para saber como implantar o projeto.
 
 ### Instalación
 
-1. Crear una cuenta gratuita en la API de consultas utilizada en [Market Stack](https://marketstack.com/signup/free) para obtener el token para acceder a las consultas. (Tiene un máximo de 100 consultas gratuitas por cuenta). Tendrá un Token en las configuraciones y dejo uno aqui para poder utilizar. 
+1. Crear una cuenta gratuita en la API de consultas utilizada en [Market Stack](https://marketstack.com/signup/free) para obtener el token para acceder a las consultas. (Tiene un máximo de 100 consultas gratuitas por cuenta). Tendrá un Token en las configuraciones y dejo dos aqui para poder utilizar. El token se podrá cambiar desde node > back > .env. Subo a GitHub como excepción el archivo ".env" para que se pueda realizar las pruebas adecuadas. 
 
 ```
-Da un ejemplo
+41ff385aa180847b455274b3d35c625f
+```
+```
+b72ceef6b1aa1b603282297fb9778af0
 ```
 
 2. Descargar el proyecto del repositorio. (Será enviado por un Pull Request) 
