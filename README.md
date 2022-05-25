@@ -1,37 +1,29 @@
 # AppInvestimentos
 
-_AppInvestimentos es una aplicación que te permite consultar diferentes características de las acciones de una manera simple y organizada._
+_AppInvestimentos é um aplicativo que permite consultar diferentes características de ações de forma simples e organizada._
 
-Con esta aplicación podemos realizar lo siguiente: 
+Com este aplicativo podemos fazer o seguinte:
 
-   - Preço atual de las acciones;
-   - Preço histórico de la acción entre fechas específicas;
-   - Preço atual em comparação a outras ações;
-   - Projeção de ganhos obtenidos com la compra em data específica.
+    - Preço atual das ações;
+    - Preço histórico da ação entre datas específicas;
+    - Preço atual em comparação com outros anos;
+    - Projeção de ganhos obtidos com a compra em uma data específica.
 
-## Comenzando
+## Iniciando
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+_Estas instruções permitirão que você obtenha uma cópia de trabalho do projeto em sua máquina local para fins de desenvolvimento e teste._
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+Consulte **Implantação** para saber como implantar o projeto.
 
 
-### Pre-requisitos
+### Pré requisitos
 
-_Que cosas necesitas para instalar el software y como instalarlas_
-
-version de Node y NPM que necesitas
-tener instalado git 
-
-```
-Da un ejemplo
-```
+- Ter o NodeJS v16.15.0 e o NPM v8.10.0 instalados
+- Ter o Git instalado
 
 ### Instalación
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-1. Hacernos socios de la api en la que hacemos la consulta. Crear la cuenta. Linkear la cuenta, darle la api, etc
+1. Crear una cuenta gratuita en la API de consultas utilizada. 
 2. Descargar el proyecto del repositorio con el comando git clone...
 3. vamos a la carpeta del proyect
 4. crear un archivo .env con las siguientes credenciales... 
