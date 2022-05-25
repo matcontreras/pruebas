@@ -8,6 +8,7 @@ Com este aplicativo podemos fazer o seguinte:
     - Preço histórico da ação entre datas específicas;
     - Preço atual em comparação com outros anos;
     - Projeção de ganhos obtidos com a compra em uma data específica.
+    - Adicionar e quitar ações no portfólio. 
 
 ## Iniciando
 
